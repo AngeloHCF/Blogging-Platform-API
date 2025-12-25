@@ -78,3 +78,5 @@ Remember that GET requests use query parameters (?id=1&title=JavaScript) instead
 Use JSON format for POST, PUT, and DELETE requests.
 
 Start by creating a post, then try reading, updating, and deleting it to see how it works.
+
+https://roadmap.sh/projects/blogging-platform-api
